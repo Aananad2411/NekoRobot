@@ -114,17 +114,9 @@ HELP_STRINGS = f"""
 *{BOT_NAME} Exclusive Features*
 
 ➲ `/start` : starts me | According to me you've already done it.
-➲ `/donate` : support me by donating for my hardwork.
 ➲ `/help`  : available commands section.
   ‣ In PM : will send you help for all supported modules.
   ‣ In group : will redirect you to pm, with all that help ᴍᴏᴅᴜʟᴇꜱ."""
-
-DONATE_STRING = """
-Hey babe,
-Happy to hear that you want to donate
-
-You can directly contact my [Developer](https://t.me/SAlTAM4) for donating or you can visit my [Support chat](https://t.me/StrawhatTeam) and ask for donation.
-"""
 
 IMPORTED = {}
 MIGRATEABLE = []
